@@ -468,9 +468,9 @@ h6 { font-size: 16px; }
 .orangeText{color: #5fc2ba !important;}
 .yellowText{color: #f0c45c !important;}
 
-.orangeBackground{background-color: #fedfd7 !important;}
-.greenBackground{background-color: #ddf5e6 !important;}
-.purpleBackground{background-color: #ece8fd !important;}
+.orangeBackground{background-color: #0b162c !important;}
+.greenBackground{background-color: #0b162c !important;}
+.purpleBackground{background-color: #0b162c !important;}
 
 .dizme_tm_hero{
 	width: 100%;
@@ -927,7 +927,7 @@ h6 { font-size: 16px; }
 .dizme_tm_main_title span{
 	font-size: 24px;
 	font-weight: 500;
-	color: #5fc2ba;
+	color: #ffb324;
 	font-family: 'Jost', sans-serif;
 	display: inline-block;
 	margin-bottom: 6px;
@@ -1782,7 +1782,7 @@ h6 { font-size: 16px; }
 	left: 1px;
 	right: 1px;
 	border-radius: 100%;
-	border: 2px solid #ffb324;
+	border: 2px solid #fff;
 	z-index: -1;
 	
 	-webkit-transition: all .5s ease;
@@ -1858,12 +1858,12 @@ h6 { font-size: 16px; }
 	left: 55px;
 }
 .dizme_tm_testimonials .left_details .circle.yellow{
-	background-color: #f0c45c;
+	background-color: #ffb324;
 	left: 148px;
 	bottom: -42px;
 }
 .dizme_tm_testimonials .left_details .border{
-	border: 4px solid #6e50f0;
+	border: 4px solid #5fc2ba;
 	width: 30px;
 	height: 30px;
 	top: -152px;
@@ -1907,17 +1907,17 @@ h6 { font-size: 16px; }
 	border-radius: 100%;
 }
 .dizme_tm_testimonials .right_details .circle.yellow{
-	background-color: #f0c45c;
+	background-color: #ffb324;
 	top: -173px;
 	right: 263px;
 }
 .dizme_tm_testimonials .right_details .circle.purple{
-	background-color: #8067f0;
+	background-color: #f2f2f2;
 	bottom: -180px;
 	right: 38px;
 }
 .dizme_tm_testimonials .right_details .border{
-	border:6px solid #1cbe59;
+	border:6px solid #5fc2ba;
 	width: 54px;
 	height: 54px;
 	right: 109px;
