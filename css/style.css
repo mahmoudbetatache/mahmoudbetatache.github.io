@@ -272,7 +272,7 @@ h6 { font-size: 16px; }
 }
 .dizme_tm_mobile_menu .mobile_menu_inner{
 	width: 100%;
-	height: auto;
+	height: 85px;
 	float: left;
 	clear: both;
 	background-color: #fff;
@@ -652,6 +652,7 @@ h6 { font-size: 16px; }
 .dizme_tm_hero .skills.photoshop .svg{
 	color: #00a9ff;
 }
+
 .dizme_tm_down{
 	position: absolute;
 	left: 50%;
@@ -2741,7 +2742,7 @@ input[type=number] {
 	.dizme_tm_portfolio .brush_2{display: none;}
 	.dizme_tm_skills .wrapper{flex-direction: column;align-items: baseline;}
 	.dizme_tm_skills .left{padding-right: 0px;width: 100%;margin-bottom: 50px;}
-	.dizme_tm_skills .right{padding-left: 0px;width: 100%;}
+	.dizme_tm_skills .right{padding-left: 50px;width: 100%;}
 	.dizme_tm_skills .right img{max-width: 300px;max-height: 300px;}
 	.dizme_tm_main_title{max-width: 100% !important;}
 	.dizme_tm_services .brush_1{display: none;}
@@ -2810,7 +2811,7 @@ input[type=number] {
 	.dizme_tm_portfolio .portfolio_filter{padding-top: 53px;padding-bottom: 46px;}
 	.dizme_tm_services{padding-top: 120px;margin-bottom: 98px;}
 	.dizme_tm_testimonials .list_wrapper{margin-top: 65px;}
-	.dizme_tm_testimonials .in{padding: 0px 20px;}
+
 	.dizme_tm_testimonials{margin-bottom: 127px;}
 	.dizme_tm_testimonials .owl-theme .owl-nav.disabled+.owl-dots{margin-top: 50px;}
 	.dizme_tm_news{padding-top: 120px;margin-bottom: 100px;}
